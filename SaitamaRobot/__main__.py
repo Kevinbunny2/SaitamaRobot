@@ -218,8 +218,8 @@ def start(update: Update, context: CallbackContext):
                      ],
                      [
                          InlineKeyboardButton(
-                             text="🗄 Source code",
-                             url="https://github.com/AnimeKaizoku/SaitamaRobot")
+                             text="𝕁𝕠𝕚𝕟 𝕘𝕣𝕠𝕦𝕡",
+                             url="http://t.me/international_english_chattings")
                      ]]))
     else:
         update.effective_message.reply_text(
